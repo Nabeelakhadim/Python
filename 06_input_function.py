@@ -1,0 +1,5 @@
+a = input("Enter your name")
+print(a)
+b = input("enter your age")
+b = int(b) # Convert b to  an  Integer (if possible)
+print (type(b))
