@@ -1,11 +1,11 @@
 a=3
 b=4
 #Arithmetic operators
-print("the value of 3 + 4 is :",3+4)
-print("the value of 3 - 4 is :",3-4)
-print("the value of 3 / 4 is :",3/4)
-print("the value of 3 % 4 is :",3%4)
-print("the value of 3 * 4 is :",3*4)
+print("the sum  of a and b is :",a+b)
+print("the difference of a and b is :",a-b)
+print("the division of a and b is :",a/b)
+print("the reminder of a and b is :",a%b)
+print("the product of a and b is :",a*b)
 
 # Assignment operators
 a=34
@@ -17,10 +17,10 @@ print(a)
 
 # Comparison operators
 c = (4<=7)
-# c = (4>=7)
-# c = (4<7)
-# c = (4>7)
-# c = (4==7)
+c = (4>=7)
+c = (4<7)
+c = (4>7)
+c = (4==7)
 print(c)
 
 # Logical operators
