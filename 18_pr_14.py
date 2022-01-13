@@ -10,3 +10,4 @@ print(len(s))
 #what is the type of s?
 s={}
 print(type(s))
+# s type is dictionary not empty set

@@ -1,4 +1,4 @@
-# write a program to fill in a letter template 
+# write a program to fill in a latter template 
 
 latter =''' Dear <|Name|>,
 Greeting from ABC coding house. I am happy to tell you about your selection 
